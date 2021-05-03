@@ -13,4 +13,5 @@
 .footer img {
   width: 80px;
   padding: 20px;
+  cursor: pointer;
 }
